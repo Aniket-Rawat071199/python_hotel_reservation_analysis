@@ -8,7 +8,10 @@ This dataset contains hotel booking information for both a city hotel and a reso
 
 The aim of this project is to analyze hotel booking data to identify key factors affecting cancellations and uncover patterns that can help improve booking management and revenue optimization.
 
-***Dataset_Used*** :- 
+***Dataset_Used*** :-
+
+[Hotel Bookings Dataset (Excel)](https://github.com/Aniket-Rawat071199/Hotel_Reservation_Analysis_-Python-/blob/main/hotel_bookings%202.xls)
+
 
 ***Dataset_Description*** :-
 
