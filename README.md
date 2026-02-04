@@ -14,6 +14,7 @@ The aim of this project is to analyze hotel booking data to identify key factors
 
 **Context:-**
 In recent years, both City Hotel and Resort Hotel have experienced high cancellation rates, creating a volatile booking environment.
+
 **The Problem:-**
 High cancellations are leading to significant revenue leakage and suboptimal room utilization (occupancy rates). The unpredictability of these cancellations creates operational inefficiencies and complicates inventory management.
 
