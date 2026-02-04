@@ -8,7 +8,14 @@ This dataset contains hotel booking information for both a city hotel and a reso
 
 The aim of this project is to analyze hotel booking data to identify key factors affecting cancellations and uncover patterns that can help improve booking management and revenue optimization.
 
-***Dataset_Used*** :- [Hotel Bookings Dataset (Excel)](https://github.com/Aniket-Rawat071199/Hotel_Reservation_Analysis_-Python-/blob/main/hotel_bookings%202.xls)
+***Dataset_Used*** :- [Hotel Bookings Dataset (Excel)](https://github.com/Aniket-Rawat071199/python_hotel_reservation_analysis/blob/main/Dataset_Hotel_Booking.xls.xls)
+
+***Problem_Statements*** :-
+
+**Context:-**
+In recent years, both City Hotel and Resort Hotel have experienced high cancellation rates, creating a volatile booking environment.
+**The Problem:-**
+High cancellations are leading to significant revenue leakage and suboptimal room utilization (occupancy rates). The unpredictability of these cancellations creates operational inefficiencies and complicates inventory management.
 
 
 ***Dataset_Description*** :-
