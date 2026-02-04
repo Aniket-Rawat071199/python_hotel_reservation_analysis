@@ -1,16 +1,16 @@
 # Hotel_Reservation_Analysis_-Python-
 
-***Overview*** :- 
+***1- Overview*** :- 
 
 This dataset contains hotel booking information for both a city hotel and a resort hotel. It includes details about reservations, customer demographics, stay duration, pricing (ADR), and cancellation status. The dataset is useful for analyzing booking trends, understanding customer behavior, and identifying factors that influence hotel booking cancellations.
 
-***Aim*** :-
+***2- Aim*** :-
 
 The aim of this project is to analyze hotel booking data to identify key factors affecting cancellations and uncover patterns that can help improve booking management and revenue optimization.
 
-***Dataset_Used*** :- [Hotel Bookings Dataset (Excel)](https://github.com/Aniket-Rawat071199/python_hotel_reservation_analysis/blob/main/Dataset_Hotel_Booking.xls.xls)
+***3- Dataset_Used*** :- [Hotel Bookings Dataset (Excel)](https://github.com/Aniket-Rawat071199/python_hotel_reservation_analysis/blob/main/Dataset_Hotel_Booking.xls.xls)
 
-***Problem_Statements*** :-
+***4-Problem_Statements*** :-
 
 **Context:-**
 In recent years, both City Hotel and Resort Hotel have experienced high cancellation rates, creating a volatile booking environment.
@@ -19,23 +19,23 @@ In recent years, both City Hotel and Resort Hotel have experienced high cancella
 High cancellations are leading to significant revenue leakage and suboptimal room utilization (occupancy rates). The unpredictability of these cancellations creates operational inefficiencies and complicates inventory management.
 
 
-***Dataset_Description*** :-
+***5- Dataset_Description*** :-
 
 The dataset contains booking records for a city hotel and a resort hotel, including details such as booking dates, stay duration, customer type, room type, average daily rate (ADR), and cancellation status.
 
-***Usage_instructions*** :-
+***6- Usage_instructions*** :-
 
 Load the dataset into a Python environment (e.g., Jupyter Notebook), install the required libraries (Pandas, NumPy, Matplotlib, Seaborn), run the data preprocessing steps, and execute the analysis and visualization cells to reproduce the results.
 
-***Data_Preparation*** :- 
+***7- Data_Preparation*** :- 
 
 The dataset was cleaned by handling missing values, removing duplicates, correcting data types, and filtering irrelevant records. New features such as total stay duration were created, and date columns were formatted properly to ensure accurate analysis.
 
-***Methodology*** :-
+***8- Methodology*** :-
 
 The methodology includes data cleaning, exploratory data analysis (EDA), data visualization, and statistical evaluation to examine booking and cancellation patterns.
 
-***Visualisation*** :-
+***9- Visualisation*** :-
 
 ## ADR Trend
 
@@ -63,7 +63,7 @@ The methodology includes data cleaning, exploratory data analysis (EDA), data vi
 
 
 
-***Analysis*** :-
+***10- Analysis*** :-
 
 The analysis focuses on identifying trends, seasonal effects, pricing impact (ADR), and customer characteristics that influence hotel booking cancellations.
 
@@ -71,7 +71,7 @@ The analysis focuses on identifying trends, seasonal effects, pricing impact (AD
 
 The findings provide insights into booking behavior and help suggest strategies to reduce cancellations and improve hotel revenue performance.
 
-***Recommendations*** :-
+***11- Recommendations*** :-
 
 1- Implement dynamic pricing strategies during high-demand periods to reduce price-sensitive cancellations.
 
