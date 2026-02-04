@@ -30,7 +30,11 @@ The methodology includes data cleaning, exploratory data analysis (EDA), data vi
 ***Visualisation*** :-
 ## ADR Trend
 
-![Cancellation Rate Heatmap](images/ADR_Trend.png)
+![ADR Trend](images/ADR_Trend.png)
+
+## Cancellation Rate by Months and Price range
+
+![Cancellation_Rate_by_Months_and_Price_range](Cancellation_Rate_by_Months_and_Price_range.png)
 
 ***Analysis*** :-
 
